@@ -1,0 +1,6 @@
+app/code/community/Oro/* app/code/community/Oro/
+app/design/adminhtml/default/default/template/* app/design/adminhtml/default/default/template/
+app/etc/modules/* app/etc/modules/
+
+skin/adminhtml/default/default/images/oro/* skin/adminhtml/default/default/images/oro/
+skin/adminhtml/default/default/oro_style.css skin/adminhtml/default/default/oro_style.css
