@@ -2,6 +2,7 @@
     "name": "oro/magento_oro_api",
     "description": "OroCRM Bridge extension adds a couple of improvements to Magento SOAP API v2 in order to expose more shopping cart and customer data.",
     "homepage": "https://github.com/orocrm",
+    "type":"magento-module",
     "license": "OSL-3.0",
      "authors":[
         {
